@@ -22,7 +22,7 @@
         "firstRun": {
             "reference": {
                 "keyVault": {
-                    "id": ""
+                    "id": "https://tailspin-vault-31075.vault.azure.net/secrets/firstRun/3956649d90fd45489f23db2d8274a03f"
                 },
                 "secretName": "firstRun"
             }
